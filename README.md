@@ -1,4 +1,6 @@
 
+![Cover Waves](https://github.com/user-attachments/assets/e8d072d4-1bf1-4e15-ad91-cc13f6870579)
+
 # Hey, I'm Emir
 
 - I'm a full-stack designer aspirant 
