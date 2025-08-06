@@ -19,11 +19,15 @@
 ### 💻 Languages & Web Technologies
 * HTML
 * CSS
+* SASS
 * JavaScript
 
 ### ⚛️ Frameworks & Libraries
 * React + Vite
     * React Hooks (useState, useEffect, useContext)
+    * JSON Web Tokens
+    * Axios
+    * Schema validation with Yup
 
 ### 🎨 Design & UI/UX
 * Figma
