@@ -56,7 +56,7 @@ My most advanced project to date — a clone inspired by Gemini’s UI/UX.
 - Authentication via JSON Web Tokens (JWT)
 - Schema validation with Yup
 
-🔗 [Repo]([https://github.com/Emirchelo-Lopez/Gemini-Clone](https://github.com/Emirchelo-Lopez/chatgpt-clone))
+🔗 [Repo](https://github.com/Emirchelo-Lopez/chatgpt-clone)
 
 ---
 
@@ -68,7 +68,7 @@ A beginner-friendly clone of Airbnb’s interface with basic routing and authori
 - Basic authorization using `localStorage`
 - API handling with `useEffect` and `useState`
 
-🔗 [Repo]([https://github.com/Emirchelo-Lopez/PROY-AIRBNBCLONE-INTROREACT](https://github.com/Emirchelo-Lopez/PROY-AIRBNBCLONE-INTROREACT))
+🔗 [Repo](https://github.com/Emirchelo-Lopez/PROY-AIRBNBCLONE-INTROREACT)
 
 ---
 
@@ -79,7 +79,7 @@ A simplified Trello board clone with full CRUD functionality.
 - HTML & CSS
 - RESTful API integration
 
-🔗 [Repo]([https://github.com/Emirchelo-Lopez/TrelloClone](https://github.com/Emirchelo-Lopez/PROY-TRELLOCLONE-JSAVANZ))
+🔗 [Repo](https://github.com/Emirchelo-Lopez/PROY-TRELLOCLONE-JSAVANZ)
 
 ---
 
@@ -90,7 +90,7 @@ A beginner-friendly project showcasing API consumption.
 - JavaScript
 - PokeAPI for dynamic Pokémon data
 
-🔗 [Repo]([https://github.com/Emirchelo-Lopez/PokeAPI](https://github.com/Emirchelo-Lopez/DEVF-PRAC-POKEAPI))
+🔗 [Repo](https://github.com/Emirchelo-Lopez/DEVF-PRAC-POKEAPI)
 
 
 ## GitHub Stats
