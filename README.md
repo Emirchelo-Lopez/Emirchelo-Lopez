@@ -1,10 +1,10 @@
 
-![Cover Waves](https://github.com/user-attachments/assets/e8d072d4-1bf1-4e15-ad91-cc13f6870579)
+<img width="1200" height="720" alt="Cover Waves" src="https://github.com/user-attachments/assets/58d05d66-10f4-4568-9f16-01279f374ecf" />
 
 # Hey, I'm Emir
 
-- I'm a full-stack designer aspirant 
-- Right now I'm enrolled in a Full-stack development bootcamp
+- I'm a Front-End Developer aspirant 
+- Right now I'm enrolled in a Full-stack development bootcamp by DEV.F
 - I enjoy designing User Interfaces
 
 
@@ -12,22 +12,26 @@
 ## 🔗 Links
  [comment1]: #[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emir-lopez-armenta/)
-
+[![facebook](https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/emir.lopezarmenta/)
+[![discord](https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/417032572133179407)
 
 ## 🛠 Skills
 
 ### 💻 Languages & Web Technologies
 * HTML
 * CSS
-* SASS
+* SASS & BEM
 * JavaScript
 
 ### ⚛️ Frameworks & Libraries
 * React + Vite
-    * React Hooks (useState, useEffect, useContext)
-    * JSON Web Tokens
-    * Axios
+    * React Hooks: useState, useEffect, useContext
+    * Routing management with react-router-dom
+    * Form handling with react-hook-form and Yup validation
+    * API consumption using useEffect and Axios
+    * Authentication with JSON Web Tokens (JWT)
     * Schema validation with Yup
+    * HTTP requests with Axios
 
 ### 🎨 Design & UI/UX
 * Figma
@@ -38,6 +42,44 @@
 ### 🛠️ Tools & Software
 * **Version Control:** Git & GitHub
 * **Task Management:** Notion, Trello, ClickUp, TickTick
+
+## 🚀 Highlighted Projects
+
+### 🔹 Gemini Clone
+My most advanced project to date — a clone inspired by Gemini’s UI/UX.  
+**Technologies used:**
+- SASS & BEM for modular and scalable styling
+- React Hooks: `useState`, `useEffect`, `useContext`
+- Routing with `react-router-dom`
+- Form handling with `react-hook-form` and Yup
+- API consumption using Axios and `useEffect`
+- Authentication via JSON Web Tokens (JWT)
+- Schema validation with Yup
+
+🔗 [Live Demo or Repo](https://github.com/Emirchelo-Lopez/Gemini-Clone)
+
+---
+
+### 🔹 TrelloClone
+A simplified Trello board clone with full CRUD functionality.  
+**Technologies used:**
+- JavaScript
+- HTML & CSS
+- RESTful API integration
+
+🔗 [Live Demo or Repo](https://github.com/Emirchelo-Lopez/TrelloClone)
+
+---
+
+### 🔹 PokeAPI
+A beginner-friendly project showcasing API consumption.  
+**Technologies used:**
+- HTML & CSS
+- JavaScript
+- PokeAPI for dynamic Pokémon data
+
+🔗 [Live Demo or Repo](https://github.com/Emirchelo-Lopez/PokeAPI)
+
 
 ## GitHub Stats
 
