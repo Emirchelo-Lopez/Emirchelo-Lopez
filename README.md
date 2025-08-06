@@ -41,6 +41,7 @@
 
 ### 🛠️ Tools & Software
 * **Version Control:** Git & GitHub
+* **AI tools:** Warp & Cursor IDE
 * **Task Management:** Notion, Trello, ClickUp, TickTick
 
 ## 🚀 Highlighted Projects
