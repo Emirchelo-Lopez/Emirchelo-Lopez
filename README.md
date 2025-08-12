@@ -32,6 +32,7 @@
     * Authentication with JSON Web Tokens (JWT)
     * Schema validation with Yup
     * HTTP requests with Axios
+* Tailwind CSS
 
 ### 🎨 Design & UI/UX
 * Figma
@@ -82,7 +83,7 @@ A simplified Trello board clone with full CRUD functionality.
 - JavaScript
 - HTML & CSS
 - RESTful API integration
-- Zod Vaidation v3.25.36 for robust data validation
+- Zod validation v3.25.36 for robust data validation
 - json-server 1.0.0-beta.3 for simulated server and task handling
 
 🔗 [Repo](https://github.com/Emirchelo-Lopez/PROY-TRELLOCLONE-JSAVANZ)
