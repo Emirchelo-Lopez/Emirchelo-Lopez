@@ -69,6 +69,7 @@ A beginner-friendly clone of Airbnb’s interface with basic routing and authori
 - Routing using `react-router-dom`
 - Basic authorization using `localStorage`
 - API handling with `useEffect` and `useState`
+- Styling with Tailwind CSS
 
 🔗 [Repo](https://github.com/Emirchelo-Lopez/PROY-AIRBNBCLONE-INTROREACT)
 🔗 [Live App](https://proy-airbnbclone-introreact.vercel.app/)
@@ -81,6 +82,8 @@ A simplified Trello board clone with full CRUD functionality.
 - JavaScript
 - HTML & CSS
 - RESTful API integration
+- Zod Vaidation v3.25.36 for robust data validation
+- json-server 1.0.0-beta.3 for simulated server and task handling
 
 🔗 [Repo](https://github.com/Emirchelo-Lopez/PROY-TRELLOCLONE-JSAVANZ)
 
