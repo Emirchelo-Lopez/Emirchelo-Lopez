@@ -97,6 +97,7 @@ A beginner-friendly project showcasing API consumption.
 
 ## GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Emirchelo-Lopez&theme=dracula)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Emirchelo-Lopez&theme=dracula)](https://github.com/Emirchelo-Lopez)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emirchelo-Lopez&layout=compact)
