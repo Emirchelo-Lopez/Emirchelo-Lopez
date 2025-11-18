@@ -59,7 +59,7 @@ My most advanced project to date — a clone inspired by Gemini’s UI/UX.
 - Schema validation with Yup
 
 🔗 [Repo](https://github.com/Emirchelo-Lopez/chatgpt-clone)
-🔗 [Live App](https://chatgpt-clone-eight-cyan.vercel.app/)
+🔗 [Live App](https://geminisito-ela.vercel.app/)
 
 ---
 
